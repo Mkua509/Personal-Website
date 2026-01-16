@@ -3,7 +3,7 @@ Hopefully i'll atleast make a working website by the end of the holidays if not 
 # Websites for Inspo
 
 [ awwards ]( https://www.awwwards.com/ ):
-A website that holds the key to alot of future inspo 
+A website that holds the key to a lot of future inspo 
 
 [ KOKUYO ]( https://www.kokuyo.com/en/special/curiosity-is-life/ ):
 KOKUYO has some really cool and innovative 3D interactions (It's a bit advanced but still cool to think about)
@@ -13,6 +13,9 @@ KOKUYO has some really cool and innovative 3D interactions (It's a bit advanced 
 
 [ NULLHUSK ]( https://nullhusk.online/studio ):
 Crazy gnarly website actually dope I really like terminal based stuff and the models are super cool too + transitions
+
+[ fluguo ](https://www.floguo.com/):
+I like the vibe of the book I lowkey might use this as my main inspo, I have a lot of thoughts similar to the person who created this website
 
 # Tools to look out for
 
